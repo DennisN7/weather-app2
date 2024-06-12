@@ -1,0 +1,24 @@
+2024-06-12 15:52:43,772 - INFO - Weather Application started.
+2024-06-12 15:52:51,135 - INFO - City entered: Nairobi
+2024-06-12 15:52:51,136 - INFO - Fetching weather data for city: Nairobi
+2024-06-12 15:52:51,559 - ERROR - Error fetching weather data: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Nairobi&appid=8c019ac28fd7613f3fb4086c19b685b4&units=metric
+2024-06-12 15:52:51,560 - ERROR - No weather data to display.
+2024-06-12 15:52:51,560 - INFO - Weather Application finished.
+2024-06-12 15:53:13,540 - INFO - Weather Application started.
+2024-06-12 15:53:20,589 - INFO - City entered: Seattle
+2024-06-12 15:53:20,590 - INFO - Fetching weather data for city: Seattle
+2024-06-12 15:53:21,013 - ERROR - Error fetching weather data: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Seattle&appid=8c019ac28fd7613f3fb4086c19b685b4&units=metric
+2024-06-12 15:53:21,014 - ERROR - No weather data to display.
+2024-06-12 15:53:21,015 - INFO - Weather Application finished.
+2024-06-12 15:55:32,284 - INFO - Weather Application started.
+2024-06-12 15:55:42,827 - INFO - City entered: Washington
+2024-06-12 15:55:42,828 - INFO - Fetching weather data for city: Washington
+2024-06-12 15:55:43,154 - ERROR - Error fetching weather data: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Washington&appid=8c019ac28fd7613f3fb4086c19b685b4&units=metric
+2024-06-12 15:55:43,154 - ERROR - No weather data to display.
+2024-06-12 15:55:43,155 - INFO - Weather Application finished.
+2024-06-12 15:58:27,242 - INFO - Weather Application started.
+2024-06-12 15:58:45,337 - INFO - City entered: Nairobi
+2024-06-12 15:58:45,337 - INFO - Fetching weather data for city: Nairobi
+2024-06-12 15:58:45,741 - INFO - Weather data fetched successfully.
+2024-06-12 15:58:45,742 - INFO - Displaying weather data for Nairobi
+2024-06-12 15:58:45,745 - INFO - Weather Application finished.
